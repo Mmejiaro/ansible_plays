@@ -4,4 +4,4 @@
     - name: Content Update
       copy:
          dest: /tmp/resolv1.conf
-         content: "nameserver 192.168.1.67\n"
+         content: "nameserver 192.168.1.207\n"
